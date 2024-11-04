@@ -1,4 +1,4 @@
-package com.example.atv10_exrc1.model.controller;
+package com.example.atv10_exrc1.controller;
 //Otávio Gabriel Ribeiro Scabio - RA: 1110482223043
 import com.example.atv10_exrc1.model.Retangulo;
 

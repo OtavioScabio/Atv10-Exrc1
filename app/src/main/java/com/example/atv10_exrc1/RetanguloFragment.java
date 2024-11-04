@@ -12,8 +12,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.example.atv10_exrc1.model.Retangulo;
-import com.example.atv10_exrc1.model.controller.GeometriaRetangulo;
-import com.example.atv10_exrc1.model.controller.IGeometriaController;
+import com.example.atv10_exrc1.controller.GeometriaRetangulo;
+import com.example.atv10_exrc1.controller.IGeometriaController;
 
 //Otávio Gabriel Ribeiro Scabio - RA: 1110482223043
 public class RetanguloFragment extends Fragment {

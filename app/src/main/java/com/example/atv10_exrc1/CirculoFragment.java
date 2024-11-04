@@ -12,8 +12,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import com.example.atv10_exrc1.model.Circulo;
-import com.example.atv10_exrc1.model.controller.GeometriaCirculo;
-import com.example.atv10_exrc1.model.controller.IGeometriaController;
+import com.example.atv10_exrc1.controller.GeometriaCirculo;
+import com.example.atv10_exrc1.controller.IGeometriaController;
 
 //Otávio Gabriel Ribeiro Scabio - RA: 1110482223043
 public class CirculoFragment extends Fragment {
